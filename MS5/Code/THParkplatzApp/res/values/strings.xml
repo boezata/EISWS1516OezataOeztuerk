@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TH Parkplatz App</string>
+    <string name="action_about">Über</string>
+    <string name="mailaddresse">E-Mail:</string>
+    <string name="password">Passwort:</string>
+    <string name="login">Login</string>
+    <string name="registration">Noch nicht registriert?</string>
+    <string name="forgotPassword">Passwort vergessen?</string>
+    <string name="passwordRepeat">Wiederholen:</string>
+    <string name="further">weiter</string>
+    <string name="chooseUserGroup">Nutzergruppe wählen:</string>
+    <string name="back">Zurück</string>
+    <string name="regis">Registrieren</string>
+    
+    <string name="usergroupproff">Professor</string>
+    <string name="usergroupworker">Mitarbeiter</string>
+    <string name="usergroupstudent">Student</string>
+    <string name="usergroupvisitor">Besucher</string>
+    
+    <string name="alertok">OK</string>
+    
+    <string name="registrationalert1title">E-Mail nicht verfügbar</string>
+    <string name="registrationalert1message">Die E-Mail-Adresse ist bereits vergeben. Bitte wählen Sie eine Alternative Mailadresse aus.</string>
+    
+    <string name="registrationalert2title">Verbindungsfehler</string>
+    <string name="registrationalert2message">Aufgrund eines Verbindungsfehlers konnte die Verfügbarkeit der Mailadresse nicht überprüft werden. Das Registrierungsverfahren wird trotzdem fortgesetzt.</string>
+    
+    <string name="registrationalert3title">E-Mail verfügbar</string>
+	<string name="registrationalert3message">Die E-Mail-Adresse ist verfügbar.</string>
+        
+    <string name="registrationalert4title">Passwort falsch</string>
+    <string name="registrationalert4message">Die eingegebenen Passwörter stimmen nicht überein</string>
+    
+    <string name="registrationalert5title">Ungültige Usergruppe</string>
+    <string name="registrationalert5message">Für eine andere User-Gruppe als \'Besucher\' müssen sie sich mit ihrer smail Adresse anmelden.</string>
+    
+    <string name="registrationalert6title">Verbindungsfehler</string>
+    <string name="registrationalert6message">Aufgrund eines Verbindungsfehlers konnte die Registrierung nicht abgeschlossen werden. Bitte versuchen Sie es später erneut!</string>
+    
+    <string name="registrationalert7title">Registrierung fehlgeschlagen</string>
+    <string name="registrationalert7message">Die Registrierung konnte nicht abgeschlossen werden. Bitte geben Sie ein anderes Passwort ein!</string>
+    
+    <string name="registrationReady">Die Registrierung ist so gut wie abgeschlossen. Sie müssen nur noch Ihre Mailadresse bestätigen.</string>
+    
+    <string name="ringProgress1Title">Bitte warten &#8230;</string>
+    <string name="ringProgress1Message">Mailadresse wird überprüft &#8230;</string>
+    
+</resources>
