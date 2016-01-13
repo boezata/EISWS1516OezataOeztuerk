@@ -1,0 +1,4 @@
+Wie ist das Expose formuliert? Sollten wir auf die Einzelheiten noch detallierter eingehen?
+Haben wir genügend Aspekte für die verteilte Anwendung? Müssen noch weitere Aspekte/Komponente definiert werden?
+Wie können wir am Besten die Funktionen der Anwendung verteilen, so dass eine verteilte Anwendungslogik besteht?
+Welche implementierungssprache wäre besser geeignet für die Applikation? Java/Javascript?
